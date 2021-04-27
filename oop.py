@@ -1,5 +1,4 @@
 class NewClass:
-
     def __init__(self):
         self.x = 10
 
@@ -7,7 +6,15 @@ class NewClass:
         return "newClass"
 
 
+class ChildClass(NewClass):
+    pass
+
+
 newObj = NewClass()
 print(newObj.printnew())
 print(newObj.x)
+
+newChild = ChildClass()
+print(newChild.x)
+
 
