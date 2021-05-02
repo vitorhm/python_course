@@ -1,4 +1,4 @@
-# Python Course
+# The Python Programming Comprehensive Bootcamp
 
 https://www.udemy.com/course/the-python-programming-v39-comprehensive-bootcamp/
 
